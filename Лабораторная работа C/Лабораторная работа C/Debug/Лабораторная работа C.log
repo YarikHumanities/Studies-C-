@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Лабораторная работа C\Лабораторная работа C\Source.cpp(15,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Лабораторная работа C\Лабораторная работа C\Source.cpp(24,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Лабораторная работа C.vcxproj -> C:\Users\User\source\repos\Лабораторная работа C\Debug\Лабораторная работа C.exe
